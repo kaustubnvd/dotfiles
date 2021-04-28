@@ -1,0 +1,25 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
+[submodule "vim/pack/colors/start/nord-vim"]
+	path = vim/pack/colors/start/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
+[submodule "vim/pack/dist/start/vim-airline"]
+	path = vim/pack/dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/pack/vendor/start/nerdtree"]
+	path = vim/pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "vim/pack/vendor/start/auto-pairs"]
+	path = vim/pack/vendor/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "vim/pack/vendor/start/ctrlp.vim"]
+	path = vim/pack/vendor/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "vim/pack/vendor/start/vim-syntax-extra"]
+	path = vim/pack/vendor/start/vim-syntax-extra
+	url = https://github.com/justinmk/vim-syntax-extra.git
+[submodule "vim/pack/airblade/start/vim-gitgutter"]
+	path = vim/pack/airblade/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
