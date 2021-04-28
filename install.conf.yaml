@@ -9,6 +9,7 @@
     ~/.vim: vim
     ~/.vimrc: vimrc
     ~/.gitconfig: gitconfig
+    ~/.tmux: tmux
 
 - create:
 
