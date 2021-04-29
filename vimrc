@@ -94,7 +94,8 @@ inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
-" Allow copy paste between vim instances?
+" Synchronize default register and clipboard register
+set clipboard^=unnamed
 
 " if has('gui_running')
 "     colorscheme solarized
